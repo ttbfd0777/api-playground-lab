@@ -26,3 +26,6 @@ MIT
 
 
 # Reformatted
+## Notes
+
+- Run `pip install -r requirements.txt` before first use.
