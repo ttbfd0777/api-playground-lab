@@ -1,3 +1,4 @@
+# Type hints added for clarity
 # api-playground
 
 Experiments with various public APIs. Each folder contains a small project exploring a different API.
